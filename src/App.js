@@ -7,7 +7,7 @@ import ServicesPage from './components/services.js'
 import ContactPage from './components/contact.js'
 import Navbar from './components/navbar.js'
 
-export default function App() {
+export default function App () {
   return (
     <Router>
       <Navbar />
